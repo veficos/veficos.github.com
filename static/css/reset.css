@@ -1,0 +1,49 @@
+body {
+    font-family: STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
+    font-size: 18px;
+    /* background:url('1.jpg') repeat; */
+}
+
+.navbar {
+    border: none;
+}
+
+.navbar-default {
+    background-image: none;
+    background-color: rgba(12, 5, 5, 0.06);
+    border-color: rgba(12, 5, 5, 0.06);
+}
+
+.container {
+    margin-top: 80px;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    border-top: none;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: rgba(216, 124, 124, 0);
+    border: 1px solid rgba(0, 0, 0, 0.07);
+}
+
+.post {
+    padding: 2% 2% 5% 2%; 
+    border: 1px solid LightGrey;
+}
+
+h1 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    margin-bottom: 60px;
+    margin-bottom: 40px;
+    padding: 5px;
+    border-bottom: 2px LightGrey solid;
+    width: 98%;
+    line-height: 150%;
+    color: #666666;
+}   
+

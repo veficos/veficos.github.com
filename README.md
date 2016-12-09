@@ -1,9 +1,9 @@
-# About
+---
+layout: post
+title: README.md
+---
 
-This is my personal blog, you can click [this][1] to visit.  
+### License
 
-# License
-
-[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.zh)
-
-[1]: http://veficos.github.com
+未经我的同意，请不要转载本博客的文章，或者以其他方式使用这些文章。因为转载之后就没人对它进行维护更新，
+我无法对文章的错误及时更新。这对技术的传播弊远远大于利。
