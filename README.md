@@ -1,6 +1,6 @@
 ---
 layout: post
-title: README.md
+title: README
 ---
 
 ### License
